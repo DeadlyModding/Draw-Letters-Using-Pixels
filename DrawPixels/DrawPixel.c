@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include "Lensflare.h"
-#include "DynamicTxd.h"
+#include "Lensflare.h" // from imfx by dk22pac
+#include "DynamicTxd.h" // from imfx by dk22pac 
 
 /*
 - (minus)
